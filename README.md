@@ -4,7 +4,7 @@
 - 💻 Currently learning **MERN Stack Development**
 - 🔥 Interested in **Web Development, UI/UX & APIs**
 - 🚀 Working on real-world projects
-- 📫 How to reach me: **nethra.s2024cse@sece.ac.in**
+- 📫 How to reach me: **pragadeesh.as2024cse@sece.ac.in**
 
 
 <!---
